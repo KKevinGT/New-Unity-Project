@@ -1,0 +1,5 @@
+[LOG]: Folder is already existed
+[LOG]: Video Codec info: NV_ENC_H264
+[LOG]: Bitrate:: 5000000
+[LOG]: Device type: DirectX 11
+[LOG]: Set encode configurations successfully
